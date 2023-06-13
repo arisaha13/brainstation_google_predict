@@ -1,0 +1,234 @@
+﻿Number,Acquisition Date,Company,Business,Country,Price,Used as or integrated with,Group,ParentCompany
+1,12-Feb-01,Dejavue,Usenet, United States,0,Google Groups,Search,Alphabet
+2,20-Sep-01,Outride,Web search engine, United States,0,Google Personalized Search,Search,Alphabet
+3,Feb-03,Pyra Labs,Weblog software, United States,0,Blogger,Search,Alphabet
+4,Apr-03,Neotonic Software,Customer relationship management, United States,0,"Google Groups, Gmail",Connectivity,Alphabet
+5,Apr-03,Applied Semantics,Online advertising, United States,102000000,"AdSense, AdWords",Business,Alphabet
+6,30-Sep-03,Kaltix,Web search engine, United States,0,iGoogle,Search,Alphabet
+7,Oct-03,Sprinks,Online advertising, United States,0,"AdSense, AdWords",Business,Alphabet
+8,Oct-03,Genius Labs,Blogging, United States,0,Blogger,Search,Alphabet
+9,10-May-04,Ignite Logic,HTML editor, United States,0,Google Sites,Search,Alphabet
+10,13-Jul-04,Picasa,Image organizer, United States,0,"Picasa, Blogger",Search,Alphabet
+11,Sep-04,ZipDash,Traffic analysis, United States,0,Google Maps,Search,Alphabet
+12,Oct-04,Where2,Map analysis, Australia,0,Google Maps,Search,Alphabet
+13,27-Oct-04,Keyhole,Map analysis, United States,0,"Google Maps, Google Earth",Search,Alphabet
+14,28-Mar-05,Urchin Software Corporation,Web analytics, United States,0,Google Analytics,Business,Alphabet
+15,12-May-05,Dodgeball,Social networking service, United States,0,Google Latitude,Search,Alphabet
+16,19-Jul-05,Akwan Information Technologies,Search engines, Brazil,0,Internet backbone,OS,Alphabet
+17,Jul-05,Reqwireless,Mobile browser, Canada,0,Google Mobile,OS,Alphabet
+18,17-Aug-05,Android,Mobile operating system, United States,50000000,Android,OS,Alphabet
+19,Nov-05,Skia,Graphics library, United States,0,Skia,OS,Alphabet
+20,27-Dec-05,Phatbits,Widget engine, United States,0,Google Desktop,OS,Alphabet
+21,31-Dec-05,allPAY,Mobile software, Germany,0,Google Mobile,OS,Alphabet
+22,31-Dec-05,bruNET,Mobile software, Germany,0,Google Mobile,OS,Alphabet
+23,17-Jan-06,dMarc Broadcasting,Advertising, United States,102000000,AdSense,Business,Alphabet
+24,14-Feb-06,Measure Map,Weblog software, United States,0,Google Analytics,Business,Alphabet
+25,09-Mar-06,Upstartle,Word processor, United States,0,Google Docs,Productivity,Alphabet
+26,14-Mar-06,@Last Software,3D modeling software, United States,0,Google Sketchup,Productivity,Alphabet
+27,09-Apr-06,Orion,Web search engine, Australia,0,Google Search,Search,Alphabet
+28,01-Jun-06,2Web Technologies,Online spreadsheets, United States,0,Google Spreadsheet,Productivity,Alphabet
+29,15-Aug-06,Neven Vision Germany,Computer vision, Germany,0,"Picasa, Google Goggles",Search,Alphabet
+30,09-Oct-06,YouTube,Video sharing, United States,1650000000,YouTube,Media,Alphabet
+31,31-Oct-06,JotSpot,Web application, United States,0,Google Sites,Search,Alphabet
+32,18-Dec-06,Endoxon,Mapping,  Switzerland,28000000,Google Maps,Search,Alphabet
+33,16-Feb-07,Adscape,In-game advertising, United States,23000000,AdSense,Business,Alphabet
+34,16-Mar-07,Trendalyzer,Statistical software, Sweden,0,Google Analytics,Business,Alphabet
+35,28-May-07,Crusix,Social networking service, United States,0,YouTube,Media,Alphabet
+36,17-Apr-07,Tonic Systems,Presentation program, United States,0,Google Docs,Productivity,Alphabet
+37,19-Apr-07,Marratech,Videoconferencing, Sweden,15000000,"Google Talk, Google Hangouts",Connectivity,Alphabet
+38,13-Apr-07,DoubleClick,Online advertising, United States,3100000000,AdSense,Business,Alphabet
+39,11-May-07,GreenBorder,Computer security, United States,0,Google Chrome,OS,Alphabet
+40,01-Jun-07,Panoramio,Photo sharing, Spain,0,Panoramio,Search,Alphabet
+41,03-Jun-07,FeedBurner,Web feed, United States,100000000,FeedBurner,Search,Alphabet
+42,05-Jun-07,PeakStream,Parallel processing, United States,0,Android,OS,Alphabet
+43,19-Jun-07,Zenter,Presentation program, United States,0,Google Docs,Productivity,Alphabet
+44,02-Jul-07,GrandCentral,Voice over IP, United States,45000000,Google Voice,Connectivity,Alphabet
+45,20-Jul-07,ImageAmerica,Aerial photography, United States,0,Google Maps,Search,Alphabet
+46,09-Jul-07,Postini,Communications security, United States,625000000,Gmail,Connectivity,Alphabet
+47,27-Sep-07,Zingku,Social networking service, United States,0,Google Mobile,OS,Alphabet
+48,09-Oct-07,Jaiku,Microblogging, Finland,0,Google Mobile,OS,Alphabet
+49,30-Jul-08,Omnisio,Online video, United States,15000000,YouTube,Media,Alphabet
+50,12-Sep-08,TNC,Weblog software, South Korea,0,Blogger,Search,Alphabet
+51,05-Aug-09,On2,Video compression, United States,133000000,"WebM, YouTube",Media,Alphabet
+52,16-Sep-09,reCAPTCHA,Security, United States,0,"Google Books, reCAPTCHA",Search,Alphabet
+53,09-Nov-09,AdMob,Mobile advertising, United States,0,"DoubleClick, Invite Media",Business,Alphabet
+54,09-Nov-09,Gizmo5,Voice over IP, United States,30000000,"Google Talk, Google Hangouts",Connectivity,Alphabet
+55,23-Nov-09,Teracent,Online advertising, United States,0,AdSense,Business,Alphabet
+56,04-Dec-09,AppJet,Collaborative real-time editor, United States,0,"Google Wave, Google Docs",Productivity,Alphabet
+57,12-Feb-10,Aardvark,Social search, United States,50000000,Aardvark,Connectivity,Alphabet
+58,17-Feb-10,reMail,Email search, United States,0,Gmail,Connectivity,Alphabet
+59,01-Mar-10,Picnik,Photo editing, United States,0,Picasa,Search,Alphabet
+60,05-Mar-10,DocVerse,Microsoft Office files sharing site, United States,25000000,Google Docs,Productivity,Alphabet
+61,02-Apr-10,Episodic,Online video platform start-up, United States,0,YouTube,Media,Alphabet
+62,12-Apr-10,Plink,Visual search engine, Ireland,0,Google Goggles,Search,Alphabet
+63,20-Apr-10,Agnilux,Server CPUs, United States,0,Android,OS,Alphabet
+64,27-Apr-10,LabPixies,Gadgets, Israel,0,"iGoogle, Android",OS,Alphabet
+65,30-Apr-10,BumpTop,Desktop environment, Canada,30000000,Android,OS,Alphabet
+66,18-May-10,Global IP Solutions,Video and audio compression, United States,68200000,WebRTC,OS,Alphabet
+67,20-May-10,Simplify Media,Music streaming, United States,0,Android,OS,Alphabet
+68,21-May-10,Ruba.com,Travel, United States,0,iGoogle,OS,Alphabet
+69,03-Jun-10,Invite Media,Advertising, United States,81000000,DoubleClick,Business,Alphabet
+70,16-Jul-10,Metaweb,Semantic search, United States,0,Google Search,Search,Alphabet
+71,Aug-10,Zetawire,"Mobile payment, NFC", Canada,0,"Android, Google Wallet, Google Checkout",OS,Alphabet
+72,04-Aug-10,Instantiations,Java/Eclipse/AJAX developer tools, United States,0,Google Web Toolkit,OS,Alphabet
+73,05-Aug-10,Slide.com,Social gaming, United States,228000000,"Google+, Orkut, Google Play",Media,Alphabet
+74,10-Aug-10,Jambool,Social Gold payment, United States,70000000,"Google+, Orkut",Connectivity,Alphabet
+75,15-Aug-10,Like.com,Visual search engine, United States,100000000,Google Shopping,Connectivity,Alphabet
+76,30-Aug-10,Angstro,Social networking service, United States,0,"Google, Google Alert",Search,Alphabet
+77,30-Aug-10,SocialDeck,Social gaming, Canada,0,"Google, Google+",Connectivity,Alphabet
+78,13-Sep-10,Quiksee,Online video, Israel,10000000,Google Maps,Search,Alphabet
+79,28-Sep-10,Plannr,Schedule management, United States,0,Google+,Connectivity,Alphabet
+80,01-Oct-10,BlindType,Touch typing, Greece,0,Android,OS,Alphabet
+81,03-Dec-10,Phonetic Arts,Speech synthesis, United Kingdom,0,"Google Voice, Google Translate",Search,Alphabet
+82,03-Dec-10,Widevine Technologies,DRM, United States,0,Google TV,Media,Alphabet
+83,13-Jan-11,eBook Technologies,E-book, United States,0,Google Books,Media,Alphabet
+84,25-Jan-11,SayNow,Voice recognition, United States,0,Google Voice,Connectivity,Alphabet
+85,01-Mar-11,Zynamics,Security, Germany,0,Project Zero,Innovation,Alphabet
+86,07-Mar-11,BeatThatQuote.com,Price comparison service, United Kingdom,65000000,Google Shopping,Connectivity,Alphabet
+87,07-Mar-11,Next New Networks,Online video, United States,0,YouTube,Media,Alphabet
+88,16-Mar-11,Green Parrot Pictures,Digital video, Ireland,0,YouTube,Media,Alphabet
+89,08-Apr-11,PushLife,Service provider, Canada,25000000,Google Play,Media,Alphabet
+90,"April 12, 2011[136]",ITA Software,Travel technology, United States,676000000,Google Flights,Search,Alphabet
+91,26-Apr-11,TalkBin,Mobile software, United States,0,Android,OS,Alphabet
+92,23-May-11,Sparkbuy,Product search, United States,0,Google Shopping,Connectivity,Alphabet
+93,03-Jun-11,PostRank,Social media analytics service, Canada,0,Google+ Google Analytics,Business,Alphabet
+94,09-Jun-11,Admeld,Online advertising, United States,400000000,"DoubleClick, Invite Media",Business,Alphabet
+95,18-Jun-11,SageTV,Media center, United States,0,"Google TV, Google Fiber, Android TV",Media,Alphabet
+96,08-Jul-11,Punchd,Loyalty program, United States,0,Google Offers,Search,Alphabet
+97,21-Jul-11,Fridge,Social groups, United States,0,Google+,Connectivity,Alphabet
+98,23-Jul-11,PittPatt,Facial recognition system, United States,0,Android,OS,Alphabet
+99,01-Aug-11,Dealmap,One deal a day service, United States,0,Google Offers,Search,Alphabet
+100,15-Aug-11,Motorola Mobility,Mobile device manufacturer, United States,12500000000,"Android, Google TV, Android TV, Patent portfolio",Media,Alphabet
+101,07-Sep-11,Zave Networks,Digital coupons, United States,0,Google Offers,Search,Alphabet
+102,08-Sep-11,Zagat,Restaurant reviews, United States,151000000,"Google Places, Google Maps",Search,Alphabet
+103,19-Sep-11,DailyDeal,One deal a day service, Germany,114000000,Google Offers,Search,Alphabet
+104,11-Oct-11,SocialGrapple,Social media analytics service, Canada,0,Google+ Google Analytics,Business,Alphabet
+105,10-Nov-11,Apture,Instantaneous search, United States,0,Google Search,Search,Alphabet
+106,14-Nov-11,Katango,Social circle organization, United States,0,Google+,Connectivity,Alphabet
+107,09-Dec-11,RightsFlow,Music rights management, United States,0,YouTube,Media,Alphabet
+108,13-Dec-11,Clever Sense,Local recommendations app, United States,0,Google Maps,Search,Alphabet
+109,16-Mar-12,Milk,Software company, United States,0,Google+,Connectivity,Alphabet
+110,02-Apr-12,TxVia,Online payments, United States,0,"Google Wallet, Google Checkout",Organization,Alphabet
+111,04-Jun-12,Meebo,Social networking, United States,100000000,Google+,Connectivity,Alphabet
+112,05-Jun-12,Quickoffice,Mobile office suite, United States,0,Google Docs,Productivity,Alphabet
+113,20-Jul-12,Sparrow,Mobile apps, France,25000000,Gmail,Connectivity,Alphabet
+114,2012,WIMM Labs,Android-powered smartwatches, United States,0,Android Wear,Devices,Alphabet
+115,01-Aug-12,Wildfire Interactive,Social media marketing, United States,450000000,"Google, Google+",Connectivity,Alphabet
+116,07-Sep-12,VirusTotal.com,Security, Spain,0,Chronicle,Productivity,Alphabet
+117,17-Sep-12,Nik Software,Photography, United States,0,"Google, Android",OS,Alphabet
+118,01-Oct-12,Viewdle,Facial recognition, Ukraine,45000000,Android,OS,Alphabet
+119,28-Nov-12,Incentive Targeting,Digital coupons, United States,0,Google Offers,Search,Alphabet
+120,30-Nov-12,BufferBox,Package delivery, Canada,17000000,"Google Shopping, Android",OS,Alphabet
+121,06-Feb-13,Channel Intelligence,Product ecommerce, United States,125000000,Google Shopping,Connectivity,Alphabet
+122,12-Mar-13,DNNresearch,Deep Neural Networks, Canada,0,"Google, X",Innovation,Alphabet
+123,15-Mar-13,Talaria Technologies,Cloud computing, United States,0,Google Cloud,Productivity,Alphabet
+124,12-Apr-13,Behavio,Social Prediction, United States,0,Google Now,Search,Alphabet
+125,23-Apr-13,Wavii,Natural Language Processing, United States,30000000,Google Knowledge Graph,Search,Alphabet
+126,23-May-13,Makani Power,Airborne wind turbines, United States,0,X,Innovation,Alphabet
+127,11-Jun-13,Waze,GPS navigation software, Israel,966000000,"Google Maps , Waze",Search,Alphabet
+128,16-Sep-13,Bump,Mobile software, United States,0,Google Photos,Organization,Alphabet
+129,02-Oct-13,Flutter,Gesture recognition technology, United States,40000000,"Google, Android, X",Innovation,Alphabet
+130,22-Oct-13,FlexyCore,DroidBooster App for Android, France,23000000,Android,OS,Alphabet
+131,02-Dec-13,Schaft,"Robotics, humanoid robots", Japan,0,X,Innovation,Alphabet
+132,03-Dec-13,Industrial Perception,"Robotic arms, computer vision", United States,0,X,Innovation,Alphabet
+133,04-Dec-13,Redwood Robotics,Robotic arms, United States,0,X,Innovation,Alphabet
+134,05-Dec-13,Meka Robotics,Robots, United States,0,X,Innovation,Alphabet
+135,06-Dec-13,Holomni,Robotic wheels, United States,0,X,Innovation,Alphabet
+136,07-Dec-13,Bot & Dolly,Robotic cameras, United States,0,X,Innovation,Alphabet
+137,08-Dec-13,Autofuss,Ads and Design, United States,0,X,Innovation,Alphabet
+138,04-Jan-14,Bitspin,Timely App for Android,  Switzerland,0,Android,OS,Alphabet
+139,13-Jan-14,Nest Labs,Home automation, United States,3200000000,Nest Labs,Devices,Alphabet
+140,15-Jan-14,Impermium,Internet security, United States,0,Project Zero,Innovation,Alphabet
+141,26-Jan-14,DeepMind Technologies,Artificial intelligence, United Kingdom,625000000,Google DeepMind,Research,Alphabet
+142,16-Feb-14,SlickLogin,Internet Security, Israel,0,Project Zero,Innovation,Alphabet
+143,21-Feb-14,spider.io,Anti-click fraud, United Kingdom,0,"DoubleClick, Adsense",Business,Alphabet
+144,12-Mar-14,GreenThrottle,Gadgets, United States,0,Android,OS,Alphabet
+145,14-Apr-14,Titan Aerospace,High-altitude UAVs, United States,0,Project Loon,Innovation,Alphabet
+146,02-May-14,Rangespan,E-commerce, United Kingdom,0,Google Shopping,Connectivity,Alphabet
+147,06-May-14,Adometry,Online advertising attribution, United States,0,Google Analytics AdSense,Business,Alphabet
+148,07-May-14,Appetas,Restaurant website creation, United States,0,Google My Business,Business,Alphabet
+149,07-May-14,Stackdriver,Cloud computing, United States,0,Google Cloud Platform,Productivity,Alphabet
+150,07-May-14,MyEnergy,Online energy usage monitoring, United States,0,Nest Labs,Devices,Alphabet
+151,16-May-14,Quest Visual,Augmented reality, United States,0,Google Translate,Search,Alphabet
+152,19-May-14,Divide,Mobile device management, United States,0,Android for Work,OS,Alphabet
+153,10-Jun-14,Skybox Imaging,Satellite, United States,500000000,"Google Maps, Project Loon",Innovation,Alphabet
+154,19-Jun-14,mDialog,Online advertising, Canada,0,DoubleClick,Business,Alphabet
+155,19-Jun-14,Alpental Technologies,Wireless, United States,0,Google,Search,Alphabet
+156,20-Jun-14,Dropcam,Home monitoring, United States,555000000,Nest Labs,Devices,Alphabet
+157,25-Jun-14,Appurify,Automated application testing, United States,0,Android,OS,Alphabet
+158,01-Jul-14,Songza,Music streaming, United States,0,"Google Play, Android TV",Media,Alphabet
+159,23-Jul-14,drawElements,Graphics compatibility testing, Finland,0,Android,OS,Alphabet
+160,06-Aug-14,Emu,IM client, United States,0,"Google Hangouts, Google Now",Connectivity,Alphabet
+161,06-Aug-14,Director,Mobile video, United States,0,"YouTube, Android",Media,Alphabet
+162,17-Aug-14,Jetpac,"Artificial intelligence, image recognition", United States,0,Picasa,Search,Alphabet
+163,23-Aug-14,Gecko Design,Mechanical design, United States,0,X,Innovation,Alphabet
+164,26-Aug-14,Zync Render,Cloud-based visual effects software, United States,0,Google Cloud Platform,Productivity,Alphabet
+165,10-Sep-14,Lift Labs,Liftware, United States,0,Verily,Research,Alphabet
+166,11-Sep-14,Polar,Social polling, United States,0,Google+,Connectivity,Alphabet
+167,21-Oct-14,Firebase,Application development platform, United States,0,Google Cloud Platform,Productivity,Alphabet
+168,23-Oct-14,Dark Blue Labs & Vision Factory,Artificial intelligence, United Kingdom,10000000,Google DeepMind,Research,Alphabet
+169,24-Oct-14,Revolv,Home automation, United States,0,Nest Labs,Devices,Alphabet
+170,19-Nov-14,RelativeWave,Mobile software prototyping, United States,0,Android,OS,Alphabet
+171,17-Dec-14,Vidmaker,Video editing, United States,0,YouTube,Media,Alphabet
+172,04-Feb-15,Launchpad Toys,Child-friendly apps, United States,0,YouTube for Kids,Media,Alphabet
+173,08-Feb-15,Odysee,Multimedia sharing and storage, United States,0,Google+,Connectivity,Alphabet
+174,23-Feb-15,Softcard,Mobile payments, United States,0,Android Pay,Organization,Alphabet
+175,24-Feb-15,Red Hot Labs,App advertising and discovery, United States,0,Google Play,Organization,Alphabet
+176,16-Apr-15,Thrive Audio,Surround sound technology, Ireland,0,Google Cardboard,Research,Alphabet
+177,16-Apr-15,Skillman & Hackett,Virtual reality software, United States,0,Tilt Brush,Misc.,Alphabet
+178,04-May-15,Timeful,Mobile software, United States,0,"Google Inbox, Google Calendar",Organization,Alphabet
+179,28-May-15,Pulse.io,Mobile app optimizer, United States,0,Android,OS,Alphabet
+180,21-Jul-15,Pixate,Mobile software prototyping, United States,0,Android,OS,Alphabet
+181,21-Sep-15,Oyster,E-book subscriptions, United States,0,Google Play Books,Media,Alphabet
+182,30-Sep-15,Jibe Mobile,Rich Communication Services, United States,0,Android,OS,Alphabet
+183,18-Jun-15,Agawi,Mobile application streaming, United States,0,"Android, Google Play",OS,Alphabet
+184,17-Oct-15,Digisfera,360-degree photography, Portugal,0,Street View,Search,Alphabet
+185,11-Nov-15,Fly Labs,Video editing, United States,0,Google Photos,Organization,Alphabet
+186,11-Nov-15,bebop,Cloud software, United States,380000000,Google Cloud Platform,Productivity,Alphabet
+187,12-Feb-16,BandPage,Platform for musicians, United States,0,YouTube,Media,Alphabet
+188,18-Feb-16,Pie,Enterprise communications, Singapore,0,Spaces,Connectivity,Alphabet
+189,02-May-16,Synergyse,Interactive tutorials, Canada,0,Google Docs,Productivity,Alphabet
+190,22-Jun-16,Webpass,Internet service provider, United States,0,Google Fiber,Innovation,Alphabet
+191,06-Jul-16,Moodstocks,Image recognition, France,0,Google Photos,Organization,Alphabet
+192,08-Jul-16,Anvato,Cloud-based video services, United States,0,Google Cloud Platform,Productivity,Alphabet
+193,12-Jul-16,Kifi,Link management, United States,0,Spaces,Connectivity,Alphabet
+194,27-Jul-16,LaunchKit,Mobile tool maker, United States,0,Firebase,OS,Alphabet
+195,08-Aug-16,Orbitera,Cloud software, United States,100000000,Google Cloud Platform,Productivity,Alphabet
+196,08-Sep-16,Apigee,API management and predictive analytics, United States,625000000,Google Cloud Platform,Productivity,Alphabet
+197,15-Sep-16,Urban Engines,Location-based analytics, United States,0,Google Maps,Search,Alphabet
+198,19-Sep-16,API.AI,Natural language processing, United States,0,Google Assistant,Search,Alphabet
+199,11-Oct-16,FameBit,Branded content,—,0,YouTube,Media,Alphabet
+200,24-Oct-16,Eyefluence,"Eye tracking, virtual reality",—,0,Google VR,Research,Alphabet
+201,05-Nov-16,LeapDroid,Android Emulator, United States,0,Android,OS,Alphabet
+202,21-Nov-16,Qwiklabs,Cloud-based hands-on training platform,—,0,Google Cloud Platform,Productivity,Alphabet
+203,13-Dec-16,Cronologics,Smartwatches, United States,0,Android Wear,Devices,Alphabet
+204,05-Jan-17,Limes Audio,Voice communication, Sweden,0,"Google Duo, Google Hangouts",Connectivity,Alphabet
+205,19-Jan-17,Fabric,Mobile app platform, United States,0,Firebase,OS,Alphabet
+206,08-Mar-17,Kaggle,Data science, United States,0,Google Cloud Platform,Productivity,Alphabet
+207,09-Mar-17,AppBridge,Productivity suite, United States,0,Google Docs,Productivity,Alphabet
+208,10-May-17,Owlchemy Labs,Virtual reality studio, United States,0,Google VR,Research,Alphabet
+209,12-Jul-17,Halli Labs,Artificial intelligence, India,0,,Misc.,Alphabet
+210,16-Aug-17,AIMatter,Computer vision, Belarus,0,YouTube,Media,Alphabet
+211,21-Sep-17,HTC (portions),Talent and intellectual property licenses, Taiwan,1100000000,Google Pixel,Devices,Alphabet
+212,26-Sep-17,Bitium,Single sign-on and identity management, United States,0,Google Cloud Platform,Productivity,Alphabet
+213,09-Oct-17,Relay Media,AMP converter, United States,0,Accelerated Mobile Pages,Search,Alphabet
+214,11-Oct-17,60db,Podcasts, United States,0,"Google Play Music, Google Podcasts",Media,Alphabet
+215,11-Jan-18,Redux,Audio, United Kingdom,0,,Misc.,Alphabet
+216,27-Mar-18,Tenor,GIF image search, United States,0,Google Images,Search,Alphabet
+217,09-May-18,Velostrata,Cloud migration, Israel,0,Google Cloud Platform,Productivity,Alphabet
+218,14-May-18,Cask,"Big data, Hadoop", United States,0,Google Cloud Platform,Productivity,Alphabet
+219,06-Aug-18,GraphicsFuzz,GPU reliability, United Kingdom,0,Android,OS,Alphabet
+220,19-Sep-18,Senosis,Health monitoring, United States,0,Nest Labs,Devices,Alphabet
+221,02-Oct-18,Onward,"Machine learning, natural language processing", United States,0,,Misc.,Alphabet
+222,28-Nov-18,Workbench_,Education technology, United States,0,Google Classroom,Productivity,Alphabet
+223,10-Dec-18,Sigmoid Labs,Indian railway tracking, India,40000000,,Misc.,Alphabet
+224,03-Jan-19,Superpod,Question and answer app, United States,60000000,Google Assistant,Search,Alphabet
+225,19-Feb-19,Alooma,"Big data, cloud migration", Israel,0,Google Cloud Platform,Productivity,Alphabet
+226,31-Mar-19,Nightcorn,Video sharing, Germany,0,YouTube,Media,Alphabet
+227,06-Jun-19,Looker,"Big data, analytics", United States,2600000000,Google Cloud Platform,Productivity,Alphabet
+228,09-Jul-19,Elastifile,File storage, United States,0,Google Cloud Platform,Productivity,Alphabet
+229,16-Oct-19,Socratic,Learning apps, United States,0,,Misc.,Alphabet
+230,18-Nov-19,CloudSimple,Cloud hosting, United States,0,Google Cloud Platform,Productivity,Alphabet
+231,19-Dec-19,Typhoon Studios,Video game development, Canada,0,Stadia,Media,Alphabet
+232,14-Jan-20,Pointy,Local retail inventory feeds, Ireland,163000000,Google Maps,Search,Alphabet
+233,Pending,Fitbit,Wearables, United States,2100000000,,,Alphabet
